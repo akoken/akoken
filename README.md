@@ -1,7 +1,7 @@
 I predict the future with computers 👨‍💻
 
 ## About
-I am a software engineer, living in Istanbul, Turkey, specializing in cutting-edge technologies. And no – I won't fix your computer.
+I am a software engineer, living in Istanbul, Turkey, specializing in cutting-edge technologies.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akoken&show_icons=true&theme=dark&locale=en&layout=compact" alt="akoken" />
 
