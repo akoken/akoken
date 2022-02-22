@@ -1,6 +1,9 @@
-I predict the future with computers 👨‍💻
+### Hey there 👋
 
-## About
+* 👨‍💻 I usually predict the future with computers
+* 🚀 I always make things faster 
+
+## About me
 I am a software engineer, living in Istanbul, Turkey, specializing in cutting-edge technologies.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akoken&show_icons=true&theme=dark&locale=en&layout=compact" alt="akoken" />
