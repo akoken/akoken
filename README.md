@@ -1,7 +1,7 @@
 ### Hey there 👋
 
-* 👨‍💻 I usually predict the future with computers
 * 🚀 I always make things faster 
+* 👨‍💻 I usually predict the future with computers
 
 ## About me
 I am a software engineer, living in Istanbul, Turkey, specializing in cutting-edge technologies.
