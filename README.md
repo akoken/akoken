@@ -10,3 +10,4 @@ I am a software engineer, living in Istanbul, Turkey, specializing in cutting-ed
 
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/aakoken.svg?style=social&label=Follow%20aakoken)](https://twitter.com/aakoken)
+[![Linkedin Badge](https://img.shields.io/badge/Abdurrahman%20Alp%20Köken-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akoken/)
