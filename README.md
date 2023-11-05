@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-* 🚀 I always make things faster 
+* 🚀 I try to make things faster 
 * 👨‍💻 I usually predict the future with computers
 
 ## About me
